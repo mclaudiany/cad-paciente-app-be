@@ -25,7 +25,8 @@ API REST para gerenciar pacientes, utilizando **Node.js**, **Express**, **MongoD
 cad-paciente-be/ 
 ├── controllers/ 
 │ └── pacienteController.js 
-├── models/ │ └── paciente.js 
+├── models/
+│ └── paciente.js 
 ├── services/ 
 │ └── pacienteService.js 
 ├── routes/ 
