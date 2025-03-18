@@ -118,4 +118,4 @@ cad-paciente-be/
 
 ---
 
-Esse **README** documenta claramente o funcionamento e uso da API, ajudando quem for utilizar ou desenvolver o projeto. Quer ajustar algo?
+Esse **README** documenta o uso da API, ajudando quem for utilizar ou desenvolver o projeto.
