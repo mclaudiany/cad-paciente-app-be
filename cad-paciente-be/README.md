@@ -41,7 +41,7 @@ cad-paciente-be/
 1. Clone o repositório:
 
    ```
-   git clone https://github.com/seu_usuario/paciente-app.git
+   git clone (https://github.com/mclaudiany/cad-paciente-app-be.git
    ```
 2. Instale as dependências:
 ```
