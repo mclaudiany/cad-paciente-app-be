@@ -57,7 +57,7 @@ cad-paciente-be/
     node server.js 
 ```
 
-1. Acesse a API: http://localhost:3000
+6. Acesse a API: http://localhost:3000
 
 ---
 ## **Endpoints**
