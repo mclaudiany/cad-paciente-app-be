@@ -21,12 +21,10 @@ API REST para gerenciar pacientes, utilizando **Node.js**, **Express**, **MongoD
 ---
 
 ## **Estrutura do Projeto**
-```
 cad-paciente-be/ 
 ├── controllers/ 
 │ └── pacienteController.js 
-├── models/
-│ └── paciente.js 
+├── models/ │ └── paciente.js 
 ├── services/ 
 │ └── pacienteService.js 
 ├── routes/ 
@@ -34,7 +32,7 @@ cad-paciente-be/
 ├── server.js 
 ├── package.json 
 └── README.md
-```
+
 
 ---
 
@@ -43,7 +41,7 @@ cad-paciente-be/
 1. Clone o repositório:
 
    ```
-   git clone (https://github.com/mclaudiany/cad-paciente-app-be.git
+   git clone https://github.com/seu_usuario/paciente-app.git
    ```
 2. Instale as dependências:
 ```
@@ -57,7 +55,7 @@ cad-paciente-be/
     node server.js 
 ```
 
-6. Acesse a API: http://localhost:3000
+1. Acesse a API: http://localhost:3000
 
 ---
 ## **Endpoints**
@@ -118,4 +116,4 @@ cad-paciente-be/
 
 ---
 
-Esse **README** documenta o uso da API, ajudando quem for utilizar ou desenvolver o projeto.
+Esse **README** documenta claramente o funcionamento e uso da API, ajudando quem for utilizar ou desenvolver o projeto. Quer ajustar algo?

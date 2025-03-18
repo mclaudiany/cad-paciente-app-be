@@ -1,8 +1,12 @@
 const express = require('express');
 const mongoose = require('mongoose');
+const cors = require('cors');
 const pacienteRoutes = require('./src/routes/pacienteRoutes');
 
 const app = express();
+// Habilita CORS para todas as origens
+app.use(cors());
+
 app.use(express.json());
 
 // Conectando ao MongoDB
