@@ -10,7 +10,7 @@ app.use(cors());
 app.use(express.json());
 
 // Conectando ao MongoDB
-mongoose.connect('mongodb+srv://mpclaudiany:mpclaudiany@cluster0.ycknr.mongodb.net/pacienteDB', {
+mongoose.connect('mongodb+srv://mpclaudiany:<colocarSenha>@cluster0.ycknr.mongodb.net/pacienteDB', {
   serverSelectionTimeoutMS:300000
 })
 .then(() => console.log('Conectado ao MongoDB com sucesso!'))
